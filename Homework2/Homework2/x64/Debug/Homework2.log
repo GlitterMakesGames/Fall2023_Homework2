@@ -1,0 +1,3 @@
+﻿  Homework2.cpp
+C:\Users\Delaina\source\repos\Homework2\Homework2\Homework2.cpp(97,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Homework2.vcxproj -> C:\Users\Delaina\source\repos\Homework2\x64\Debug\Homework2.exe
